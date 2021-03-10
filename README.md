@@ -1,8 +1,8 @@
 ## Week 6 Lab Exercise
 ### Who created it
 
-Ryan Kusmierz
-Olaoluwa Laifa
+* Ryan Kusmierz
+* Olaoluwa Laifa
 
 ### What the program does
 
